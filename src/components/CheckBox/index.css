@@ -1,0 +1,5 @@
+.checkbox .form-check-input {
+  cursor: pointer;
+  border: 1px solid rgb(20, 20, 20);
+  border-radius: 0px;
+}
